@@ -342,18 +342,9 @@ Stock-price predictions are uncertain and should **not** be considered financial
 ---
 
 # 👨‍💻 Author
+Neha S
 
 ## Divakar M
-
-**B.Tech CSE — Artificial Intelligence & Data Science**
-
-AI/ML • Generative AI • Python • Machine Learning
-
-<p align="center">
-  <a href="https://github.com/Divakar1326">
-    <img src="https://img.shields.io/badge/GitHub-Divakar1326-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
 
 ---
 
